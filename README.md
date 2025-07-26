@@ -18,27 +18,28 @@
 | Category       | Tools & Technologies                        |
 |----------------|---------------------------------------------|
 | Programming    | C++, Python (basic), HTML/CSS/JS            |
-| Game Engines   | Unity (beginner)                            |
 | Other Tools    | Git & GitHub, Figma (basic), Blender (learning) |
-| Soft Skills    | Teamwork, Communication, Eagerness to Learn |
+| Soft Skills    | Teamwork, Communication, Eagerness to Learn, curiosity, adaptability |
 
 ---
 
-## 🎮 Projects
 
-> *(Note: These are basic or learning projects as I build experience.)*
+## 🧩 Projects
 
-### 🧟 Zombie Run (Prototype)
-A simple 2D endless runner where the player avoids zombies and collects points.
-- 🔧 Unity + C#
-- 🕹️ Features: Score tracking, basic animation, collision detection
-- 📂 [GitHub Repo](https://github.com/yourusername/zombie-run) | [Demo Video](link-if-any)
+### 1️⃣ School of Engineering Web App
+A web application designed to serve the School of Engineering Sciences at the University of Ghana.
+- 🌐 Technologies: HTML, CSS, JavaScript
+- 📂 [View on GitHub](https://github.com/yourusername/school-of-engineering-web-app)
 
-### 🧱 Brick Breaker Clone
-My attempt at recreating the classic arcade game using Unity.
-- 🔧 Unity + C#
-- 🚀 Learned about physics, bounce mechanics, and paddle control
-- 📂 [GitHub Repo](https://github.com/yourusername/brick-breaker)
+### 2️⃣ Text-to-Speech App (Python)
+A basic Python application that takes text input and converts it to speech using the `pyttsx3` library.
+- 🧠 Learned: Python libraries, GUI basics
+- 📂 [View on GitHub](https://github.com/yourusername/text-to-speech-app)
+
+### 3️⃣ QR Code Generator (Python)
+A Python script that generates QR codes for text input, using the `qrcode` and `tkinter` libraries.
+- 🔧 Tools: Python, Tkinter, qrcode
+- 📂 [View on GitHub](https://github.com/yourusername/qr-code-generator)
 
 ---
 
