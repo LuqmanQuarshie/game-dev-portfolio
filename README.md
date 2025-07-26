@@ -28,24 +28,24 @@
 
 ### 1️⃣ School of Engineering Web App
 A web application designed to serve the School of Engineering Sciences at the University of Ghana.
-- 🌐 Technologies: HTML, CSS, JavaScript
-- 📂 [View on GitHub](https://github.com/yourusername/school-of-engineering-web-app)
+- 🌐 Technologies: HTML, CSS, JavaScript, React
+- 📂 [View on GitHub]((https://github.com/LuqmanQuarshie/React-App.git))
 
 ### 2️⃣ Text-to-Speech App (Python)
 A basic Python application that takes text input and converts it to speech using the `pyttsx3` library.
 - 🧠 Learned: Python libraries, GUI basics
-- 📂 [View on GitHub](https://github.com/yourusername/text-to-speech-app)
+- 📂 [View on GitHub]((https://github.com/LuqmanQuarshie/PROJECT-2.git))
 
 ### 3️⃣ QR Code Generator (Python)
 A Python script that generates QR codes for text input, using the `qrcode` and `tkinter` libraries.
 - 🔧 Tools: Python, Tkinter, qrcode
-- 📂 [View on GitHub](https://github.com/yourusername/qr-code-generator)
+- 📂 [View on GitHub]((https://github.com/LuqmanQuarshie/PROJECT-2.git))
 
 ---
 
 ## 📄 Resume
 
-- Download my CV (https://flowcv.com/resume/vos299bsv5)
+- Download my CV ((https://flowcv.com/resume/vos299bsv5))
 
 ---
 
