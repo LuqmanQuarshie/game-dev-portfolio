@@ -45,7 +45,7 @@ A Python script that generates QR codes for text input, using the `qrcode` and `
 
 ## 📄 Resume
 
-- Download my CV [CV]((https://flowcv.com/resume/vos299bsv5))
+- Download my [CV]((https://flowcv.com/resume/vos299bsv5))
 
 ---
 
