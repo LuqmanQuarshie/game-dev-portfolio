@@ -45,15 +45,15 @@ A Python script that generates QR codes for text input, using the `qrcode` and `
 
 ## 📄 Resume
 
-- Download my CV ((https://flowcv.com/resume/vos299bsv5))
+- Download my CV [CV]((https://flowcv.com/resume/vos299bsv5))
 
 ---
 
 ## 📬 Contact
 
 - 📧 Email: luqmanq5@icloud.com.com  
-- 💼 LinkedIn: [linkedin.com/in/Luqman Quarshie]
-- 🧑‍💻 GitHub: [github.com/LuqmanQuarshie]
+- 💼 LinkedIn: [Profile](http://linkedin.com/in/luqman-quarshie-664248356)
+- 🧑‍💻 GitHub: [Profile](https://github.com/LuqmanQuarshie)
 
 ---
 
